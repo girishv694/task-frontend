@@ -1,0 +1,64 @@
+
+body{
+    background-color: aqua;
+}
+
+input{
+    width: 300px;
+    height: 20px;
+    padding: 5px 5px;
+    outline: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+img {
+    width: 100px;
+    padding-left: 100px;
+    
+}
+
+.heading{
+    display: flex;
+    height: 80px;
+    flex-direction: row;
+   gap:450px;
+    background-color: blueviolet;
+ 
+    
+}
+
+.sub-data{
+    margin-top: 150px;
+}
+
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+.btn button{
+    width: 80px;
+    height: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-1{
+    background-color: green;
+    color: #fff;
+    font-weight: 600;
+}
+
+.btn-2{
+    background-color:brown;
+    color: #fff;
+    font-weight: 600;
+}
+
+.btn-3{
+    background-color:rgb(97, 136, 6);
+    color: #fff;
+    font-weight: 600;
+}
